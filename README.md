@@ -1,9 +1,9 @@
 # GitLab-Pipeline
 
-	GitLab is an app to run in Pipeline.
+- GitLab is an app to run in Pipeline.
 	- Can be installed on many OS
 	- Application that runs job in a pipeline
-	- Can also be installed on cloud an on-prem
+	- Can also be installed on cloud and on-prem
 	- Also run on Shell, Docker and K8S
 
 - Docker person register that agent with a token. It established a trust relationship between GitLab instance and a communication channel.
